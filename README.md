@@ -4,9 +4,9 @@ Wemos D1 Mini - ESP 8266 Minecraft OreLight firmware
 Dimmable, Preprogrammed Ore-Colors, RGB
 
 ## Materials
-- wemos d1 mini (esp8266 chip) ~ 20ct
+- wemos d1 mini (esp8266 chip) ~ 2€
 - wemos d1 shield WS2812B ~ 1€
-- mini momentary push button tactile (6x6mm) ~ 1ct
+- mini momentary push button tactile (6x6mm) ~ 5ct
 - 2x 3-4cm isolated copper wire
 - 2d-paper and 3d-white and gray filament printer
 - solderiron + solder
